@@ -1,14 +1,14 @@
-# Nerfies
+# EqDiff
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
-
-If you find Nerfies useful for your work please cite:
+If you find EqDiff useful for your work please cite:
 ```
-@article{ma2024eqdiff,
-  author    = {Ma, Liyuan and Fang, Xueji and Qi, Guo-jun},
-  title     = {Equilibrated Diffusion: Frequency-aware Textual Embedding for Equilibrated Image Customization},
-  journal   = {ACM MM},
-  year      = {2024},
+@inproceedings{
+  ma2024equilibrated,
+  title={Equilibrated Diffusion: Frequency-aware Textual Embedding for Equilibrated Image Customization},
+  author={Liyuan Ma and Xueji Fang and Guo-Jun Qi},
+  booktitle={ACM Multimedia 2024},
+  year={2024},
+  url={https://openreview.net/forum?id=ERuypCHYvX}
 }
 ```
 
